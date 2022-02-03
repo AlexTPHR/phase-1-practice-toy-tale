@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 10
     },
     {
       "id": 2,
@@ -28,7 +28,7 @@
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 11
     },
     {
       "id": 6,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Stretch",
+      "image": "https://images.app.goo.gl/Vhs9TNT31ELRmyne7",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Stretch",
+      "image": "https://images.app.goo.gl/Vhs9TNT31ELRmyne7",
+      "likes": 4,
+      "id": 10
+    },
+    {
+      "name": "Stretch",
+      "image": "https://images.app.goo.gl/Vhs9TNT31ELRmyne7",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Cu6one",
+      "image": "https://images.app.goo.gl/pcsDMetHuKFRM6Q28",
+      "likes": 8,
+      "id": 12
     }
   ]
 }
